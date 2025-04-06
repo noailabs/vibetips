@@ -1,6 +1,6 @@
-# Vibe Creating Tips & Tricks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+# Vibe Anyting with Large Models Tips & Tricks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
-This list of short vibe creating: coding, writing, designing, learning, etc. tips & tricks.  
+This list of short vibe coding, writing, designing, learning, etc. tips & tricks.  
 
 > Can you help make it better?  
 
