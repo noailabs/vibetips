@@ -14,9 +14,9 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 # Vibe Tips list
 
--  0 - [](https://github.com/noailabs/vibetips#0---vibe-coding)
+-  0 - [Vibe coding:simple prompts, available models](https://github.com/noailabs/vibetips#0---vibe-coding)
 
-## #0 - Vibe coding
+## #0 - Vibe coding:simple prompts, available models
 > 2025-04-06 by [@noailabs](https://github.com/noailabs)
 
 Vibe coding. All you need are the best LLM + prompt engineering for code generation.
