@@ -14,7 +14,7 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 # Vibe Tips list
 
--  0 - [Vibe coding:simple prompts, available models]([https://github.com/noailabs/vibetips#0---vibe-coding](https://github.com/noailabs/vibetips#0---vibe-codingsimple-prompts-available-models)
+-  0 - [Vibe coding:simple prompts, available models](https://github.com/noailabs/vibetips#0---vibe-codingsimple-prompts-available-models)
 
 ## #0 - Vibe coding:simple prompts, available models
 > 2025-04-06 by [@noailabs](https://github.com/noailabs)
