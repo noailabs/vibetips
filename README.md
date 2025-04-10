@@ -14,9 +14,15 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 # Vibe Tips list
 
--  1 - [Vibe learning](https://github.com/noailabs/vibetips#0---vibe-learning)
+-  2 - [Task management for code generation](https://github.com/noailabs/vibetips#2---task-management-for-code-generation)
+-  1 - [Vibe learning](https://github.com/noailabs/vibetips#1---vibe-learning)
 -  0 - [Vibe coding:simple prompts, available models](https://github.com/noailabs/vibetips#0---vibe-codingsimple-prompts-available-models)
 
+## #2 - Task management for code generation
+> 2025-04-10 by [@noailabs](https://github.com/noailabs)
+Task management for code generation that makes it 10x better
+
+* [How I reduced 90% errors for my Cursor (+ any other AI IDE)](https://www.youtube.com/watch?v=1L509JK8p1I)
 ## #1 - Vibe learning
 > 2025-04-06 by [@noailabs](https://github.com/noailabs)
 Learning is a critical skill of any intelligence, natural and artificial
