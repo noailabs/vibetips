@@ -20,11 +20,14 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 ## #2 - Task management for code generation
 > 2025-04-10 by [@noailabs](https://github.com/noailabs)
+
 Task management for code generation that makes it 10x better
 
 * [How I reduced 90% errors for my Cursor (+ any other AI IDE)](https://www.youtube.com/watch?v=1L509JK8p1I)
+
 ## #1 - Vibe learning
 > 2025-04-06 by [@noailabs](https://github.com/noailabs)
+
 Learning is a critical skill of any intelligence, natural and artificial
 
 Vibe learning prompting strategy is to ask model to prepare structured syllabus of lessons, starting with the fundamentals and building up to advanced concepts. Or if you are advanced already specify exactly your needs. Here is a prompt template.
