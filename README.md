@@ -14,9 +14,18 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 # Vibe Tips list
 
+-  3 - [Prompt design](https://github.com/noailabs/vibetips#3---prompt-design)
 -  2 - [Task management for code generation](https://github.com/noailabs/vibetips#2---task-management-for-code-generation)
 -  1 - [Vibe learning](https://github.com/noailabs/vibetips#1---vibe-learning)
 -  0 - [Vibe coding:simple prompts, available models](https://github.com/noailabs/vibetips#0---vibe-codingsimple-prompts-available-models)
+
+## #3 - Prompt design
+> 2025-05-31 by [@noailabs](https://github.com/noailabs)
+
+Prompt design is advancing, LLMs can do any NLP
+
+* [Prompt design at Parahelp](https://parahelp.com/blog/prompt-design)
+
 
 ## #2 - Task management for code generation
 > 2025-04-10 by [@noailabs](https://github.com/noailabs)
