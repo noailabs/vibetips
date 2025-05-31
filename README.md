@@ -24,6 +24,7 @@ Make PR add new tip on top of list with title, date, description, code and links
 
 Prompt design is advancing, LLMs can do any NLP
 
+* [ Effective prompting techniques (Deep Dive) | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=2YCaBqP8muw)
 * [Prompt design at Parahelp](https://parahelp.com/blog/prompt-design)
 
 
